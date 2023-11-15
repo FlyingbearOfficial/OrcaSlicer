@@ -79,6 +79,15 @@
     "slow_down_min_speed": [
         "20"
     ],
+    "filament_retraction_length": [
+        "0.8"
+    ],
+    "overhang_fan_threshold": [
+        "0%"
+    ],
+    "filament_flow_ratio": [
+        "0.94"
+    ],
     "slow_down_layer_time": [
         "2"
     ]
