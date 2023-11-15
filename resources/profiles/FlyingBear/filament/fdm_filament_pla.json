@@ -8,7 +8,7 @@
         "80"
     ],
     "filament_max_volumetric_speed": [
-        "26"
+        "21"
     ],
     "filament_type": [
         "PLA"
@@ -44,7 +44,7 @@
         "60"
     ],
     "nozzle_temperature_initial_layer": [
-        "200"
+        "210"
     ],
     "reduce_fan_stop_start_freq": [
         "1"
@@ -68,7 +68,7 @@
         "1"
     ],
     "nozzle_temperature": [
-        "200"
+        "210"
     ],
     "temperature_vitrification": [
         "60"
